@@ -12,7 +12,7 @@
 
 6 😆 Log: Registro de eventos que ocurren en un sistema.
 
-7 🤡 Loop (Bucle): Estructura que repite instrucciones en programación.
+7 🤡 Heap: Área de memoria para almacenamiento dinámico de datos.
 
 
 
